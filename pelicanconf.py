@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 #Theme
-THEME = '/theme/'
+THEME = './theme/'
