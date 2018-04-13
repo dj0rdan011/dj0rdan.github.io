@@ -2,7 +2,7 @@ Title: TEST, first
 Date: 2018/04/13 23:10
 Category: Test
 Tags: <c>, <d>
-Slug: <testing-2>
+Slug: testing-2
 
 Second Post By Pelican
 #####################
